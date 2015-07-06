@@ -8,7 +8,7 @@
 
 3A) Bootstrap on Bluemix [template](https://github.com/atlankford/bootstrap-on-bluemix)
 
-      or 
+or 
 
 3B) Bluemix Manifest [file](https://github.com/atlankford/bluemix-manifest)
 
