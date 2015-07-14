@@ -12,12 +12,17 @@ or
 
 3B) Bluemix Manifest [file](https://github.com/atlankford/bluemix-manifest)
 
-4) CLI Login
+4) Set api endpoint
+
+```
+cf api https://api.ng.bluemix.net
+```
+5) CLI Login
 ```
     cf login
 ```    
 
-5) CLI push code
+6) CLI push code
 ```
     cf push
 ```    

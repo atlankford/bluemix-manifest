@@ -1,9 +1,9 @@
 ---
 applications:
 #make sure to change the name and host attributes
-- name:      bootstrap-on-bluemix
-  host:      bootstrap-on-bluemix
-  domain:    bootstrap-on-bluemix.com
+- name:      manifesto
+  host:      manifesto
+  domain:    manifesto.com
   memory:    256M
   disk_quota: 1024M
   instances: 2
