@@ -27,4 +27,6 @@ cf api https://api.ng.bluemix.net
     cf push
 ```    
     
+    
+Refer to [Cloud Foundry Documentation](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html) for more info.
 
